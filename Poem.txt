@@ -1,5 +1,6 @@
 To do list
 BBC bitesize
 Git for poets
+Upload repository on teams
 Install programs
-Read student book
+
