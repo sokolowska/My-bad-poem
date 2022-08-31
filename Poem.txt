@@ -2,5 +2,10 @@ To do list
 BBC bitesize
 Git for poets
 Upload repository on teams
-Install programs
+Install programs:
+- git
+- github
+- python
+- anaconda
+- my sql
 
