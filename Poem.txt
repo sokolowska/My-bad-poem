@@ -2,6 +2,11 @@ To do list
 BBC bitesize
 Git for poets
 Upload repository on teams
+Know The names of The teachers
+- Kapil
+- Miracle
+- James
+
 Install programs:
 - git
 - github
